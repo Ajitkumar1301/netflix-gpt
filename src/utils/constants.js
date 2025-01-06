@@ -4,8 +4,6 @@ export const Logo =
 export const User_avatar =
   "https://e7.pngegg.com/pngimages/84/165/png-clipart-united-states-avatar-organization-information-user-avatar-service-computer-wallpaper.png";
 
-// export const API_KEY = "15e383204c1b8a09dbfaaa4c01ed7e17";
-
 export const options = {
   method: "GET",
   headers: {
